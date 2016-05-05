@@ -1,0 +1,7 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\buttonBlinked\buttonBlinked\bin\Debug\buttonBlinked.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\buttonBlinked\buttonBlinked\bin\Debug\buttonBlinked.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\buttonBlinked\buttonBlinked\obj\x86\Debug\buttonBlinked.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\buttonBlinked\buttonBlinked\obj\x86\Debug\buttonBlinked.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\buttonBlinked\buttonBlinked\obj\x86\Debug\buttonBlinked.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\buttonBlinked\buttonBlinked\obj\x86\Debug\buttonBlinked.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\buttonBlinked\buttonBlinked\obj\x86\Debug\buttonBlinked.pdb

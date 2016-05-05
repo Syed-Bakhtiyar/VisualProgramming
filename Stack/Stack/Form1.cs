@@ -128,20 +128,27 @@ namespace Stack
             else
             {
                 textBox1.Clear();
-                int find = int.Parse(textBox2.Text);
-                int t = 0;
-                for (int i = 0; i <= count; i++)
+                try
                 {
-                    if (find == data[i])
+                    int find = int.Parse(textBox2.Text);
+                    int t = 0;
+                    for (int i = 0; i <= count; i++)
                     {
-                        MessageBox.Show("number is found");
-                        t++;
-                        break;
+                        if (find == data[i])
+                        {
+                            MessageBox.Show("number is found");
+                            t++;
+                            break;
+                        }
+                    }
+                    if (t == 0)
+                    {
+                        MessageBox.Show("number not found");
                     }
                 }
-                if (t == 0)
-                {
-                    MessageBox.Show("number not found");
+                catch(Exception a){
+                    MessageBox.Show("ENTER ONLY NUMBER TO SEARCH");
+                    textBox2.Clear();
                 }
               
 

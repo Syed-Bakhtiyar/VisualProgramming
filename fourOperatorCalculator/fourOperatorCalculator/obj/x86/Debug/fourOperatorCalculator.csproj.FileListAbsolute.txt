@@ -1,0 +1,7 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\fourOperatorCalculator\fourOperatorCalculator\bin\Debug\fourOperatorCalculator.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\fourOperatorCalculator\fourOperatorCalculator\bin\Debug\fourOperatorCalculator.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\fourOperatorCalculator\fourOperatorCalculator\obj\x86\Debug\fourOperatorCalculator.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\fourOperatorCalculator\fourOperatorCalculator\obj\x86\Debug\fourOperatorCalculator.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\fourOperatorCalculator\fourOperatorCalculator\obj\x86\Debug\fourOperatorCalculator.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\fourOperatorCalculator\fourOperatorCalculator\obj\x86\Debug\fourOperatorCalculator.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\fourOperatorCalculator\fourOperatorCalculator\obj\x86\Debug\fourOperatorCalculator.pdb

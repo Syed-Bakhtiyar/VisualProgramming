@@ -1,0 +1,7 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio button\radio button\bin\Debug\radio button.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio button\radio button\bin\Debug\radio button.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio button\radio button\obj\x86\Debug\radio_button.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio button\radio button\obj\x86\Debug\radio_button.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio button\radio button\obj\x86\Debug\radio button.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio button\radio button\obj\x86\Debug\radio button.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio button\radio button\obj\x86\Debug\radio button.pdb

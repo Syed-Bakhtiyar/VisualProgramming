@@ -1,0 +1,7 @@
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\bin\Release\KeyBoardAssignment.exe
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\bin\Release\KeyBoardAssignment.pdb
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Release\KeyBoardAssignment.Form1.resources
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Release\KeyBoardAssignment.Properties.Resources.resources
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Release\KeyBoardAssignment.csproj.GenerateResource.Cache
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Release\KeyBoardAssignment.exe
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Release\KeyBoardAssignment.pdb

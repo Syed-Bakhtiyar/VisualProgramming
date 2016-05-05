@@ -1,0 +1,7 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio fm\radio fm\bin\Debug\radio fm.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio fm\radio fm\bin\Debug\radio fm.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio fm\radio fm\obj\x86\Debug\radio_fm.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio fm\radio fm\obj\x86\Debug\radio_fm.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio fm\radio fm\obj\x86\Debug\radio fm.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio fm\radio fm\obj\x86\Debug\radio fm.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\radio fm\radio fm\obj\x86\Debug\radio fm.pdb

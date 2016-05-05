@@ -1,0 +1,29 @@
+﻿Build started 1/31/2016 10:34:48 AM.
+     1>Project "c:\Users\bakhtiyar\documents\visual studio 2010\Projects\inheritance--\inheritance--\inheritance--.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\bakhtiyar\documents\visual studio 2010\Projects\inheritance--\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\inheritance--.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "polymorphism-1.cpp"
+         polymorphism-1.cpp
+       ManifestResourceCompile:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\inheritance--.exe.embed.manifest.res" Debug\inheritance--_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\bakhtiyar\documents\visual studio 2010\Projects\inheritance--\Debug\inheritance--.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\inheritance--.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\bakhtiyar\documents\visual studio 2010\Projects\inheritance--\Debug\inheritance--.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\bakhtiyar\documents\visual studio 2010\Projects\inheritance--\Debug\inheritance--.lib" /MACHINE:X86 "Debug\inheritance--.exe.embed.manifest.res"
+         "Debug\polymorphism-1.obj"
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\inheritance--.exe.embed.manifest" /manifest "Debug\inheritance--.exe.intermediate.manifest"
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\inheritance--.exe.embed.manifest.res" Debug\inheritance--_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\bakhtiyar\documents\visual studio 2010\Projects\inheritance--\Debug\inheritance--.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\inheritance--.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\bakhtiyar\documents\visual studio 2010\Projects\inheritance--\Debug\inheritance--.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\bakhtiyar\documents\visual studio 2010\Projects\inheritance--\Debug\inheritance--.lib" /MACHINE:X86 "Debug\inheritance--.exe.embed.manifest.res"
+         "Debug\polymorphism-1.obj"
+         inheritance--.vcxproj -> c:\users\bakhtiyar\documents\visual studio 2010\Projects\inheritance--\Debug\inheritance--.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\inheritance--.unsuccessfulbuild".
+         Touching "Debug\inheritance--.lastbuildstate".
+     1>Done Building Project "c:\Users\bakhtiyar\documents\visual studio 2010\Projects\inheritance--\inheritance--\inheritance--.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.99

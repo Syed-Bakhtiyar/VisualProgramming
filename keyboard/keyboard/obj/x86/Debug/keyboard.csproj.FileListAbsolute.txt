@@ -1,0 +1,7 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\keyboard\keyboard\bin\Debug\keyboard.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\keyboard\keyboard\bin\Debug\keyboard.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\keyboard\keyboard\obj\x86\Debug\keyboard.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\keyboard\keyboard\obj\x86\Debug\keyboard.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\keyboard\keyboard\obj\x86\Debug\keyboard.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\keyboard\keyboard\obj\x86\Debug\keyboard.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\keyboard\keyboard\obj\x86\Debug\keyboard.pdb

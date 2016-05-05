@@ -1,0 +1,6 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\VisualCalculator\VisualCalculator\bin\Debug\VisualCalculator.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\VisualCalculator\VisualCalculator\bin\Debug\VisualCalculator.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\VisualCalculator\VisualCalculator\obj\x86\Debug\VisualCalculator.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\VisualCalculator\VisualCalculator\obj\x86\Debug\VisualCalculator.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\VisualCalculator\VisualCalculator\obj\x86\Debug\VisualCalculator.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\VisualCalculator\VisualCalculator\obj\x86\Debug\VisualCalculator.pdb

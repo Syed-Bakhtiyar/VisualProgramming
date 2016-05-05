@@ -1,0 +1,7 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\Stack\Stack\bin\Debug\Stack.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\Stack\Stack\bin\Debug\Stack.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.pdb

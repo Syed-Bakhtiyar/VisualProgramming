@@ -1,0 +1,8 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\exeptioncalculator\exeptioncalculator\obj\x86\Debug\exeptioncalculator.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\exeptioncalculator\exeptioncalculator\obj\x86\Debug\exeptioncalculator.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\exeptioncalculator\exeptioncalculator\obj\x86\Debug\exeptioncalculator.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\exeptioncalculator\exeptioncalculator\bin\Debug\exeptioncalculator.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\exeptioncalculator\exeptioncalculator\bin\Debug\exeptioncalculator.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\exeptioncalculator\exeptioncalculator\obj\x86\Debug\exeptioncalculator.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\exeptioncalculator\exeptioncalculator\obj\x86\Debug\exeptioncalculator.pdb
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\exeptioncalculator\exeptioncalculator\obj\x86\Debug\exeptioncalculator.csprojResolveAssemblyReference.cache

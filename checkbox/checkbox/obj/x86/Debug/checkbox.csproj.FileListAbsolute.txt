@@ -1,0 +1,7 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\checkbox\checkbox\bin\Debug\checkbox.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\checkbox\checkbox\bin\Debug\checkbox.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\checkbox\checkbox\obj\x86\Debug\checkbox.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\checkbox\checkbox\obj\x86\Debug\checkbox.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\checkbox\checkbox\obj\x86\Debug\checkbox.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\checkbox\checkbox\obj\x86\Debug\checkbox.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\checkbox\checkbox\obj\x86\Debug\checkbox.pdb

@@ -1,0 +1,7 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ButtonRandomGame\ButtonRandomGame\bin\Debug\ButtonRandomGame.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ButtonRandomGame\ButtonRandomGame\bin\Debug\ButtonRandomGame.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ButtonRandomGame\ButtonRandomGame\obj\x86\Debug\ButtonRandomGame.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ButtonRandomGame\ButtonRandomGame\obj\x86\Debug\ButtonRandomGame.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ButtonRandomGame\ButtonRandomGame\obj\x86\Debug\ButtonRandomGame.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ButtonRandomGame\ButtonRandomGame\obj\x86\Debug\ButtonRandomGame.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\ButtonRandomGame\ButtonRandomGame\obj\x86\Debug\ButtonRandomGame.pdb

@@ -1,0 +1,7 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\calculatortest\calculatortest\bin\Debug\calculatortest.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\calculatortest\calculatortest\bin\Debug\calculatortest.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\calculatortest\calculatortest\obj\x86\Debug\calculatortest.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\calculatortest\calculatortest\obj\x86\Debug\calculatortest.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\calculatortest\calculatortest\obj\x86\Debug\calculatortest.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\calculatortest\calculatortest\obj\x86\Debug\calculatortest.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\calculatortest\calculatortest\obj\x86\Debug\calculatortest.pdb

@@ -1,0 +1,4 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\Exeption\Exeption\bin\Debug\Exeption.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\Exeption\Exeption\bin\Debug\Exeption.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\Exeption\Exeption\obj\x86\Debug\Exeption.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\Exeption\Exeption\obj\x86\Debug\Exeption.pdb

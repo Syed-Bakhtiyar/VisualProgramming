@@ -1,0 +1,37 @@
+﻿Build started 4/30/2016 10:39:52 AM.
+     1>Project "c:\Users\bakhtiyar\documents\visual studio 2010\Projects\OOP FILING DATABASE\OOP FILING DATABASE\OOP FILING DATABASE.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\OOP FILING DATABASE.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "fILING wITH c++.cpp"
+         fILING wITH c++.cpp
+     1>c:\users\bakhtiyar\documents\visual studio 2010\projects\oop filing database\oop filing database\filing with c++.cpp(25): warning C4996: 'flushall': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _flushall. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(724) : see declaration of 'flushall'
+     1>c:\users\bakhtiyar\documents\visual studio 2010\projects\oop filing database\oop filing database\filing with c++.cpp(26): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\conio.h(129) : see declaration of 'getche'
+     1>c:\users\bakhtiyar\documents\visual studio 2010\projects\oop filing database\oop filing database\filing with c++.cpp(32): warning C4996: 'flushall': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _flushall. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(724) : see declaration of 'flushall'
+     1>c:\users\bakhtiyar\documents\visual studio 2010\projects\oop filing database\oop filing database\filing with c++.cpp(33): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\bakhtiyar\documents\visual studio 2010\projects\oop filing database\oop filing database\filing with c++.cpp(40): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\conio.h(129) : see declaration of 'getche'
+     1>c:\users\bakhtiyar\documents\visual studio 2010\projects\oop filing database\oop filing database\filing with c++.cpp(17): warning C4102: 'start' : unreferenced label
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\bakhtiyar\documents\visual studio 2010\Projects\OOP FILING DATABASE\Debug\OOP FILING DATABASE.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OOP FILING DATABASE.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\bakhtiyar\documents\visual studio 2010\Projects\OOP FILING DATABASE\Debug\OOP FILING DATABASE.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\bakhtiyar\documents\visual studio 2010\Projects\OOP FILING DATABASE\Debug\OOP FILING DATABASE.lib" /MACHINE:X86 "Debug\OOP FILING DATABASE.exe.embed.manifest.res"
+         "Debug\fILING wITH c++.obj"
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\OOP FILING DATABASE.exe.embed.manifest" /manifest "Debug\OOP FILING DATABASE.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         OOP FILING DATABASE.vcxproj -> c:\users\bakhtiyar\documents\visual studio 2010\Projects\OOP FILING DATABASE\Debug\OOP FILING DATABASE.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\OOP FILING DATABASE.unsuccessfulbuild".
+         Touching "Debug\OOP FILING DATABASE.lastbuildstate".
+     1>Done Building Project "c:\Users\bakhtiyar\documents\visual studio 2010\Projects\OOP FILING DATABASE\OOP FILING DATABASE\OOP FILING DATABASE.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.48

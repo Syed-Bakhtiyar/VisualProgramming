@@ -1,0 +1,8 @@
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.exe
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.pdb
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Release\WindowsFormsApplication8.Form1.resources
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Release\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Release\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Release\WindowsFormsApplication8.exe
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Release\WindowsFormsApplication8.pdb
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Release\WindowsFormsApplication8.csprojResolveAssemblyReference.cache

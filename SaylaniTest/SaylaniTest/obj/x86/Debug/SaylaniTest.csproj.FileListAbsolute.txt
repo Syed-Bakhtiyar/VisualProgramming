@@ -1,0 +1,7 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\SaylaniTest\SaylaniTest\bin\Debug\SaylaniTest.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\SaylaniTest\SaylaniTest\bin\Debug\SaylaniTest.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\SaylaniTest\SaylaniTest\obj\x86\Debug\SaylaniTest.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\SaylaniTest\SaylaniTest\obj\x86\Debug\SaylaniTest.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\SaylaniTest\SaylaniTest\obj\x86\Debug\SaylaniTest.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\SaylaniTest\SaylaniTest\obj\x86\Debug\SaylaniTest.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\SaylaniTest\SaylaniTest\obj\x86\Debug\SaylaniTest.pdb
