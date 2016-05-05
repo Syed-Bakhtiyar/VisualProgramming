@@ -26,8 +26,14 @@ namespace KeyBoardAssignment
         public Form1()
         {
             InitializeComponent();
+<<<<<<< HEAD
         }
         int sl = 1, cl = 1, nl = 1;
+=======
+           
+        }
+        
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         private void button1_Click(object sender, EventArgs e)
         {
             SendKeys.Send("{ESC}");
@@ -52,7 +58,11 @@ namespace KeyBoardAssignment
 
         private void button68_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
 
+=======
+            SendKeys.SendWait("^{ESC}");
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -77,9 +87,16 @@ namespace KeyBoardAssignment
 
         private void q_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if(Ctrl.Checked){
                 SendKeys.Send("^ {Q}");
                 Ctrl.Checked = false;
+=======
+            if(Ctrl.Checked||ctr.Checked){
+                SendKeys.SendWait("^q");
+                Ctrl.Checked = false;
+                ctr.Checked = false;
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             }
 
             else
@@ -97,6 +114,17 @@ namespace KeyBoardAssignment
 
         private void w_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^w");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("W");
@@ -110,6 +138,17 @@ namespace KeyBoardAssignment
 
         private void e_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^e"); ctr.Checked = false;
+
+                Ctrl.Checked = false;
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("E");
@@ -123,6 +162,17 @@ namespace KeyBoardAssignment
 
         private void r_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^r"); ctr.Checked = false;
+
+                Ctrl.Checked = false;
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("R");
@@ -136,6 +186,17 @@ namespace KeyBoardAssignment
 
         private void t_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^t");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("T"); shift.Checked = false; shift2.Checked = false;
@@ -148,6 +209,17 @@ namespace KeyBoardAssignment
 
         private void y_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^y");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("Y"); shift.Checked = false; shift2.Checked = false;
@@ -160,6 +232,17 @@ namespace KeyBoardAssignment
 
         private void i_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^i");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("I"); shift.Checked = false; shift2.Checked = false;
@@ -172,6 +255,17 @@ namespace KeyBoardAssignment
 
         private void o_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^o");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("O"); shift.Checked = false; shift2.Checked = false;
@@ -184,6 +278,17 @@ namespace KeyBoardAssignment
 
         private void p_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^p");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("P"); shift.Checked = false; shift2.Checked = false;
@@ -196,6 +301,7 @@ namespace KeyBoardAssignment
 
         private void a_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (Ctrl.Checked)
             {
                 SendKeys.Send((Convert.ToChar('^')).ToString()+"{A}");
@@ -203,6 +309,17 @@ namespace KeyBoardAssignment
             }
 
             else
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^a");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("A"); shift.Checked = false; shift2.Checked = false;
@@ -215,6 +332,17 @@ namespace KeyBoardAssignment
 
         private void s_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^s");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("S"); shift.Checked = false; shift2.Checked = false;
@@ -227,6 +355,17 @@ namespace KeyBoardAssignment
 
         private void d_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^d");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("D"); shift.Checked = false; shift2.Checked = false;
@@ -239,6 +378,17 @@ namespace KeyBoardAssignment
 
         private void f_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^f");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("F"); shift.Checked = false; shift2.Checked = false;
@@ -251,6 +401,17 @@ namespace KeyBoardAssignment
 
         private void g_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^g");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("G"); shift.Checked = false; shift2.Checked = false;
@@ -263,6 +424,17 @@ namespace KeyBoardAssignment
 
         private void h_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^h");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("H"); shift.Checked = false; shift2.Checked = false;
@@ -275,6 +447,17 @@ namespace KeyBoardAssignment
 
         private void u_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^u");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("U"); shift.Checked = false; shift2.Checked = false;
@@ -287,6 +470,17 @@ namespace KeyBoardAssignment
 
         private void J_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^j");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("J"); shift.Checked = false; shift2.Checked = false;
@@ -299,6 +493,17 @@ namespace KeyBoardAssignment
 
         private void k_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^k");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("K"); shift.Checked = false; shift2.Checked = false;
@@ -311,6 +516,17 @@ namespace KeyBoardAssignment
 
         private void l_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^l");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("L"); shift.Checked = false; shift2.Checked = false;
@@ -323,6 +539,17 @@ namespace KeyBoardAssignment
 
         private void z_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^z");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("Z"); shift.Checked = false; shift2.Checked = false;
@@ -335,6 +562,17 @@ namespace KeyBoardAssignment
 
         private void x_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^x");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("X"); shift.Checked = false; shift2.Checked = false;
@@ -347,6 +585,17 @@ namespace KeyBoardAssignment
 
         private void c_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^c");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("C"); shift.Checked = false; shift2.Checked = false;
@@ -359,6 +608,17 @@ namespace KeyBoardAssignment
 
         private void v_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^v");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("V"); shift.Checked = false; shift2.Checked = false;
@@ -371,6 +631,17 @@ namespace KeyBoardAssignment
 
         private void b_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^b");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("B"); shift.Checked = false; shift2.Checked = false;
@@ -383,6 +654,17 @@ namespace KeyBoardAssignment
 
         private void n_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^n");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("N"); shift.Checked = false; shift2.Checked = false;
@@ -395,6 +677,17 @@ namespace KeyBoardAssignment
 
         private void M_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
+=======
+            if (Ctrl.Checked || ctr.Checked)
+            {
+                SendKeys.SendWait("^m");
+                Ctrl.Checked = false; ctr.Checked = false;
+
+            }
+
+            else
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             if (capslock.Checked || shift.Checked || shift2.Checked)
             {
                 SendKeys.Send("M"); shift.Checked = false; shift2.Checked = false;
@@ -543,7 +836,11 @@ namespace KeyBoardAssignment
 
         private void window_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             SendKeys.Send("{STARTMENU}");
+=======
+            SendKeys.SendWait("^{ESC}");
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -731,12 +1028,25 @@ namespace KeyBoardAssignment
 
         private void tab_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if(shift.Checked||shift2.Checked){
                 SendKeys.Send("+({TAB})");
                 shift.Checked = false;
                 shift2.Checked = false;
             }
             SendKeys.Send("{TAB}");
+=======
+            if (shift.Checked || shift2.Checked)
+            {
+                SendKeys.Send("+{TAB}");
+                shift.Checked = false;
+                shift2.Checked = false;
+            }
+            else
+            {
+                SendKeys.Send("{TAB}");
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void backspace_Click(object sender, EventArgs e)
@@ -746,7 +1056,14 @@ namespace KeyBoardAssignment
 
         private void printscreen_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             SendKeys.Send("{PRTSC}");
+=======
+           
+
+                SendKeys.Send("{PRTSC}");
+            
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void scrolllock_Click(object sender, EventArgs e)
@@ -952,6 +1269,14 @@ namespace KeyBoardAssignment
             if(num.Checked){
                 SendKeys.Send("/");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button12_Click(object sender, EventArgs e)
@@ -960,6 +1285,14 @@ namespace KeyBoardAssignment
             {
                 SendKeys.Send("*");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button13_Click(object sender, EventArgs e)
@@ -968,6 +1301,14 @@ namespace KeyBoardAssignment
             {
                 SendKeys.Send("-");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button14_Click(object sender, EventArgs e)
@@ -976,6 +1317,14 @@ namespace KeyBoardAssignment
             {
                 SendKeys.Send("7");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button15_Click(object sender, EventArgs e)
@@ -984,6 +1333,14 @@ namespace KeyBoardAssignment
             {
                 SendKeys.Send("8");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button16_Click(object sender, EventArgs e)
@@ -992,6 +1349,14 @@ namespace KeyBoardAssignment
             {
                 SendKeys.Send("9");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button17_Click(object sender, EventArgs e)
@@ -1008,6 +1373,14 @@ namespace KeyBoardAssignment
             {
                 SendKeys.Send("1");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button22_Click(object sender, EventArgs e)
@@ -1016,6 +1389,14 @@ namespace KeyBoardAssignment
             {
                 SendKeys.Send("2");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button23_Click(object sender, EventArgs e)
@@ -1024,6 +1405,14 @@ namespace KeyBoardAssignment
             {
                 SendKeys.Send("3");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button24_Click(object sender, EventArgs e)
@@ -1032,6 +1421,14 @@ namespace KeyBoardAssignment
             {
                 SendKeys.Send("{ENTER}");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button25_Click(object sender, EventArgs e)
@@ -1040,6 +1437,14 @@ namespace KeyBoardAssignment
             {
                 SendKeys.Send("0");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void button28_Click(object sender, EventArgs e)
@@ -1048,6 +1453,14 @@ namespace KeyBoardAssignment
             {
                 SendKeys.Send("{INSERT}");
             }
+<<<<<<< HEAD
+=======
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
@@ -1067,6 +1480,7 @@ namespace KeyBoardAssignment
 
         private void Scrolllock_CheckedChanged(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             sl++;
             if((sl%2)==0){
                 radioButton3.Checked = true;
@@ -1101,5 +1515,94 @@ namespace KeyBoardAssignment
                 radioButton2.Checked = false;
             }
         }
+=======
+           
+        }
+
+        private void capslock_CheckedChanged(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void num_CheckedChanged(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void alt2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            if (num.Checked)
+            {
+                SendKeys.Send("4");
+            }
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+        }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+            if (num.Checked)
+            {
+                SendKeys.Send("5");
+            }
+            else
+            {
+                MessageBox.Show("Please On NumLock");
+
+            }
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+            if (num.Checked)
+            {
+                SendKeys.Send("6");
+            }
+            else {
+                MessageBox.Show("Please On NumLock");
+            
+            }
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            SendKeys.SendWait("^{ESC}");
+            checkBox1.Checked = false;
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+            SendKeys.SendWait("^{ESC}");
+            checkBox2.Checked = false;
+        }
+
+        private void ctr_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void alt_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Ctrl_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void shift_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
     }
 }

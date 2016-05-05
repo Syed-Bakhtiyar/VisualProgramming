@@ -85,10 +85,14 @@
             this.v = new System.Windows.Forms.Button();
             this.lessthan = new System.Windows.Forms.Button();
             this.questionmark = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.window = new System.Windows.Forms.Button();
             this.space = new System.Windows.Forms.Button();
             this.ctrlright = new System.Windows.Forms.Button();
             this.window2 = new System.Windows.Forms.Button();
+=======
+            this.space = new System.Windows.Forms.Button();
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             this.left = new System.Windows.Forms.Button();
             this.right = new System.Windows.Forms.Button();
             this.capslock = new System.Windows.Forms.CheckBox();
@@ -132,10 +136,17 @@
             this.button28 = new System.Windows.Forms.Button();
             this.num = new System.Windows.Forms.CheckBox();
             this.label1 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.Scrolllock = new System.Windows.Forms.CheckBox();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.radioButton3 = new System.Windows.Forms.RadioButton();
+=======
+            this.Scrolllock = new System.Windows.Forms.CheckBox();
+            this.ctr = new System.Windows.Forms.CheckBox();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             this.SuspendLayout();
             // 
             // button1
@@ -698,6 +709,7 @@
             this.questionmark.UseVisualStyleBackColor = true;
             this.questionmark.Click += new System.EventHandler(this.questionmark_Click);
             // 
+<<<<<<< HEAD
             // window
             // 
             this.window.Image = ((System.Drawing.Image)(resources.GetObject("window.Image")));
@@ -709,6 +721,8 @@
             this.window.UseVisualStyleBackColor = true;
             this.window.Click += new System.EventHandler(this.window_Click);
             // 
+=======
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             // space
             // 
             this.space.Location = new System.Drawing.Point(153, 208);
@@ -719,6 +733,7 @@
             this.space.UseVisualStyleBackColor = true;
             this.space.Click += new System.EventHandler(this.space_Click);
             // 
+<<<<<<< HEAD
             // ctrlright
             // 
             this.ctrlright.Location = new System.Drawing.Point(624, 208);
@@ -739,6 +754,8 @@
             this.window2.UseVisualStyleBackColor = true;
             this.window2.Click += new System.EventHandler(this.button68_Click);
             // 
+=======
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             // left
             // 
             this.left.Image = ((System.Drawing.Image)(resources.GetObject("left.Image")));
@@ -764,7 +781,11 @@
             this.capslock.Appearance = System.Windows.Forms.Appearance.Button;
             this.capslock.Location = new System.Drawing.Point(12, 127);
             this.capslock.Name = "capslock";
+<<<<<<< HEAD
             this.capslock.Size = new System.Drawing.Size(63, 32);
+=======
+            this.capslock.Size = new System.Drawing.Size(63, 36);
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             this.capslock.TabIndex = 6;
             this.capslock.Text = "Caps Lock";
             this.capslock.UseVisualStyleBackColor = true;
@@ -805,10 +826,18 @@
             this.shift.Appearance = System.Windows.Forms.Appearance.Button;
             this.shift.Location = new System.Drawing.Point(12, 166);
             this.shift.Name = "shift";
+<<<<<<< HEAD
             this.shift.Size = new System.Drawing.Size(87, 32);
             this.shift.TabIndex = 10;
             this.shift.Text = "Shift";
             this.shift.UseVisualStyleBackColor = true;
+=======
+            this.shift.Size = new System.Drawing.Size(87, 36);
+            this.shift.TabIndex = 10;
+            this.shift.Text = "Shift";
+            this.shift.UseVisualStyleBackColor = true;
+            this.shift.CheckedChanged += new System.EventHandler(this.shift_CheckedChanged);
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             // 
             // shift2
             // 
@@ -915,7 +944,11 @@
             // 
             this.tab.Location = new System.Drawing.Point(12, 88);
             this.tab.Name = "tab";
+<<<<<<< HEAD
             this.tab.Size = new System.Drawing.Size(60, 32);
+=======
+            this.tab.Size = new System.Drawing.Size(60, 36);
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             this.tab.TabIndex = 21;
             this.tab.Text = "Tab";
             this.tab.UseVisualStyleBackColor = true;
@@ -924,12 +957,22 @@
             // Ctrl
             // 
             this.Ctrl.Appearance = System.Windows.Forms.Appearance.Button;
+<<<<<<< HEAD
             this.Ctrl.Location = new System.Drawing.Point(12, 208);
             this.Ctrl.Name = "Ctrl";
             this.Ctrl.Size = new System.Drawing.Size(42, 36);
             this.Ctrl.TabIndex = 22;
             this.Ctrl.Text = "Ctrl";
             this.Ctrl.UseVisualStyleBackColor = true;
+=======
+            this.Ctrl.Location = new System.Drawing.Point(12, 207);
+            this.Ctrl.Name = "Ctrl";
+            this.Ctrl.Size = new System.Drawing.Size(42, 37);
+            this.Ctrl.TabIndex = 22;
+            this.Ctrl.Text = "Ctrl";
+            this.Ctrl.UseVisualStyleBackColor = true;
+            this.Ctrl.CheckedChanged += new System.EventHandler(this.Ctrl_CheckedChanged);
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             // 
             // printscreen
             // 
@@ -980,6 +1023,10 @@
             this.alt.TabIndex = 28;
             this.alt.Text = "Alt";
             this.alt.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
+=======
+            this.alt.CheckedChanged += new System.EventHandler(this.alt_CheckedChanged);
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             // 
             // alt2
             // 
@@ -990,6 +1037,10 @@
             this.alt2.TabIndex = 29;
             this.alt2.Text = "Alt Gr";
             this.alt2.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
+=======
+            this.alt2.CheckedChanged += new System.EventHandler(this.alt2_CheckedChanged);
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             // 
             // button10
             // 
@@ -1069,6 +1120,10 @@
             this.button18.TabIndex = 38;
             this.button18.Text = "4";
             this.button18.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
+=======
+            this.button18.Click += new System.EventHandler(this.button18_Click);
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             // 
             // button19
             // 
@@ -1078,6 +1133,10 @@
             this.button19.TabIndex = 39;
             this.button19.Text = "5";
             this.button19.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
+=======
+            this.button19.Click += new System.EventHandler(this.button19_Click);
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             // 
             // button20
             // 
@@ -1087,6 +1146,10 @@
             this.button20.TabIndex = 40;
             this.button20.Text = "6";
             this.button20.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
+=======
+            this.button20.Click += new System.EventHandler(this.button20_Click);
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             // 
             // button21
             // 
@@ -1169,6 +1232,7 @@
             this.label1.TabIndex = 50;
             this.label1.Text = "Reinvention of Wheel\r\n        KeyBoard\r\n          Got it?";
             // 
+<<<<<<< HEAD
             // radioButton2
             // 
             this.radioButton2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
@@ -1183,6 +1247,8 @@
             this.radioButton2.UseVisualStyleBackColor = false;
             this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
+=======
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             // Scrolllock
             // 
             this.Scrolllock.Appearance = System.Windows.Forms.Appearance.Button;
@@ -1194,6 +1260,7 @@
             this.Scrolllock.UseVisualStyleBackColor = true;
             this.Scrolllock.CheckedChanged += new System.EventHandler(this.Scrolllock_CheckedChanged);
             // 
+<<<<<<< HEAD
             // radioButton1
             // 
             this.radioButton1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
@@ -1219,6 +1286,41 @@
             this.radioButton3.TabIndex = 57;
             this.radioButton3.TabStop = true;
             this.radioButton3.UseVisualStyleBackColor = false;
+=======
+            // ctr
+            // 
+            this.ctr.Appearance = System.Windows.Forms.Appearance.Button;
+            this.ctr.Location = new System.Drawing.Point(623, 207);
+            this.ctr.Name = "ctr";
+            this.ctr.Size = new System.Drawing.Size(72, 36);
+            this.ctr.TabIndex = 58;
+            this.ctr.Text = "Ctrl";
+            this.ctr.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.ctr.UseVisualStyleBackColor = true;
+            this.ctr.CheckedChanged += new System.EventHandler(this.ctr_CheckedChanged);
+            // 
+            // checkBox1
+            // 
+            this.checkBox1.Appearance = System.Windows.Forms.Appearance.Button;
+            this.checkBox1.Image = ((System.Drawing.Image)(resources.GetObject("checkBox1.Image")));
+            this.checkBox1.Location = new System.Drawing.Point(63, 207);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(42, 36);
+            this.checkBox1.TabIndex = 59;
+            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
+            // checkBox2
+            // 
+            this.checkBox2.Appearance = System.Windows.Forms.Appearance.Button;
+            this.checkBox2.Image = ((System.Drawing.Image)(resources.GetObject("checkBox2.Image")));
+            this.checkBox2.Location = new System.Drawing.Point(543, 208);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(74, 36);
+            this.checkBox2.TabIndex = 60;
+            this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             // 
             // Form1
             // 
@@ -1226,10 +1328,17 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(888, 482);
+<<<<<<< HEAD
             this.Controls.Add(this.radioButton3);
             this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.Scrolllock);
             this.Controls.Add(this.radioButton2);
+=======
+            this.Controls.Add(this.checkBox2);
+            this.Controls.Add(this.checkBox1);
+            this.Controls.Add(this.ctr);
+            this.Controls.Add(this.Scrolllock);
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             this.Controls.Add(this.label1);
             this.Controls.Add(this.num);
             this.Controls.Add(this.button28);
@@ -1316,14 +1425,20 @@
             this.Controls.Add(this.g);
             this.Controls.Add(this.t);
             this.Controls.Add(this.F6);
+<<<<<<< HEAD
             this.Controls.Add(this.window2);
             this.Controls.Add(this.window);
+=======
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             this.Controls.Add(this.five);
             this.Controls.Add(this.x);
             this.Controls.Add(this.s);
             this.Controls.Add(this.w);
             this.Controls.Add(this.F9);
+<<<<<<< HEAD
             this.Controls.Add(this.ctrlright);
+=======
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
             this.Controls.Add(this.two);
             this.Controls.Add(this.z);
             this.Controls.Add(this.a);
@@ -1399,10 +1514,14 @@
         private System.Windows.Forms.Button v;
         private System.Windows.Forms.Button lessthan;
         private System.Windows.Forms.Button questionmark;
+<<<<<<< HEAD
         private System.Windows.Forms.Button window;
         private System.Windows.Forms.Button space;
         private System.Windows.Forms.Button ctrlright;
         private System.Windows.Forms.Button window2;
+=======
+        private System.Windows.Forms.Button space;
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
         private System.Windows.Forms.Button left;
         private System.Windows.Forms.Button right;
         private System.Windows.Forms.CheckBox capslock;
@@ -1446,10 +1565,17 @@
         private System.Windows.Forms.Button button28;
         private System.Windows.Forms.CheckBox num;
         private System.Windows.Forms.Label label1;
+<<<<<<< HEAD
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.CheckBox Scrolllock;
         private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.RadioButton radioButton3;
+=======
+        private System.Windows.Forms.CheckBox Scrolllock;
+        private System.Windows.Forms.CheckBox ctr;
+        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.CheckBox checkBox2;
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
     }
 }
 

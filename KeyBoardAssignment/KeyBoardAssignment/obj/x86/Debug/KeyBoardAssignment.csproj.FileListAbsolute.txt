@@ -5,3 +5,23 @@ c:\users\bakhtiyar\documents\visual studio 2010\Projects\KeyBoardAssignment\KeyB
 c:\users\bakhtiyar\documents\visual studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.csproj.GenerateResource.Cache
 c:\users\bakhtiyar\documents\visual studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.exe
 c:\users\bakhtiyar\documents\visual studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.pdb
+<<<<<<< HEAD
+=======
+C:\Users\Syed Inkisar Ahmed\Documents\Visual Studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.exe
+C:\Users\Syed Inkisar Ahmed\Documents\Visual Studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.pdb
+C:\Users\Syed Inkisar Ahmed\Documents\Visual Studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\bin\Debug\KeyBoardAssignment.exe
+C:\Users\Syed Inkisar Ahmed\Documents\Visual Studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\bin\Debug\KeyBoardAssignment.pdb
+C:\Users\Syed Inkisar Ahmed\Documents\Visual Studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Syed Inkisar Ahmed\Documents\Visual Studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.Form1.resources
+C:\Users\Syed Inkisar Ahmed\Documents\Visual Studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.Properties.Resources.resources
+C:\Users\Syed Inkisar Ahmed\Documents\Visual Studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Syed Inkisar Ahmed\Documents\Visual Studio 2010\Projects\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bakhtiyar\Desktop\New folder (4)\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.exe
+C:\Users\bakhtiyar\Desktop\New folder (4)\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.pdb
+C:\Users\bakhtiyar\Desktop\New folder (4)\KeyBoardAssignment\KeyBoardAssignment\bin\Debug\KeyBoardAssignment.exe
+C:\Users\bakhtiyar\Desktop\New folder (4)\KeyBoardAssignment\KeyBoardAssignment\bin\Debug\KeyBoardAssignment.pdb
+C:\Users\bakhtiyar\Desktop\New folder (4)\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.Form1.resources
+C:\Users\bakhtiyar\Desktop\New folder (4)\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.Properties.Resources.resources
+C:\Users\bakhtiyar\Desktop\New folder (4)\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.csproj.GenerateResource.Cache
+C:\Users\bakhtiyar\Desktop\New folder (4)\KeyBoardAssignment\KeyBoardAssignment\obj\x86\Debug\KeyBoardAssignment.csprojResolveAssemblyReference.cache
+>>>>>>> ceadeb6be708f2847442438ef2b4310a04342cff
